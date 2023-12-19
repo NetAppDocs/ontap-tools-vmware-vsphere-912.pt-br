@@ -1,0 +1,14 @@
+---
+permalink: configure/concept_configure_traditional_datastores.html 
+sidebar: sidebar 
+keywords:  
+summary: Você pode usar as ferramentas do ONTAP para configurar datastores e máquinas virtuais no vCenter Server. Os armazenamentos de dados e máquinas virtuais que são provisionados pelas ferramentas do ONTAP são exibidos no painel das ferramentas do ONTAP. Isso permite que você monitore e gerencie facilmente esses armazenamentos de dados e máquinas virtuais. 
+---
+= Configurar datastores tradicionais e máquinas virtuais
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Você pode usar as ferramentas do ONTAP para configurar datastores e máquinas virtuais no vCenter Server. Os armazenamentos de dados e máquinas virtuais que são provisionados pelas ferramentas do ONTAP são exibidos no painel das ferramentas do ONTAP. Isso permite que você monitore e gerencie facilmente esses armazenamentos de dados e máquinas virtuais.
